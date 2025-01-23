@@ -24,7 +24,7 @@
   --members-width: 240px;
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, 0.6);
-  --background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/sapphire.jpg);
+  --background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/sapphire.jpg);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -74,7 +74,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://github.com/SinduMP/themedc/blob/main/Assets/discord.svg);
+  --home-icon: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/discord.svg);
   --home-position: center;
   --home-size: 40px;
   --popout-color: rgba(0, 0, 0, 0.7);
@@ -3725,41 +3725,41 @@ textarea::-webkit-scrollbar {
   height: 30px;
   box-sizing: border-box;
   padding-left: 30px;
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file.svg);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
   opacity: 0.5;
 }
 :not(.embedWrapper_b558d0) > [title="unknown"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_upload.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_upload.svg);
 }
 [title="document"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_document.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_document.svg);
 }
 [title="archive"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_archive.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_archive.svg);
 }
 [title="code"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_code.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_code.svg);
 }
 [title="webcode"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_webcode.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_webcode.svg);
 }
 [title="ai"].icon_b52bef,
 [title="ps"].icon_b52bef,
 [title="photoshop"].icon_b52bef,
 [title="sketch"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_image.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_image.svg);
 }
 [title="ae"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_video.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_video.svg);
 }
 [title="spreadsheet"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_table.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_table.svg);
 }
 [title="acrobat"].icon_b52bef {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_pdf.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_pdf.svg);
 }
 .fileNameLink_b52bef {
   color: var(--main-color);
@@ -4755,7 +4755,7 @@ code {
   content: "";
   width: 36px;
   height: 36px;
-  background: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_music.svg)
+  background: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_music.svg)
     center/100% no-repeat;
   opacity: 0.5;
 }
@@ -5026,36 +5026,36 @@ code {
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:first-child {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/sapphire.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/sapphire.jpg");
   --local-color: #2780e6;
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:nth-child(2) {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/halloween.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/halloween.jpg");
   --local-color: #e67a27;
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:nth-child(3) {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/emerald.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/emerald.jpg");
   --local-color: #33e627;
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:nth-child(4) {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/amethyst.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/amethyst.jpg");
   --local-color: #da27e6;
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:nth-child(5) {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/amber.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/amber.jpg");
   --local-color: #e67a27;
 }
 #message-accessories-1189957093676032070
   .nonVisualMediaItem_cda674:nth-child(6) {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/winter.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/winter.jpg");
   --local-color: #66aacc;
 }
 #message-accessories-1189957093676032070 .nonVisualMediaItem_cda674:last-child {
-  --local-image: url("https://github.com/SinduMP/themedc/blob/main/Assets/ruby.jpg");
+  --local-image: url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/ruby.jpg");
   --local-color: #e62727;
 }
 #message-accessories-1189957093676032070 .container_d8e2d0 {
@@ -5084,7 +5084,7 @@ code {
 #message-accessories-1189957093676032070 .textContainer_d8e2d0::after {
   background: var(
       --preview-overlay,
-      url("https://github.com/SinduMP/themedc/blob/main/Assets/preview_overlay.png")
+      url("https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/preview_overlay.png")
     )
     center/cover no-repeat;
 }
@@ -7345,7 +7345,7 @@ code {
   box-shadow: 0 0 2px 2px var(--profile-gradient-primary-color);
 }
 .connectedAccountVerifiedIcon_ab12c6 {
-  background: url(https://github.com/SinduMP/themedc/blob/main/Assets/verified.svg) center/18px
+  background: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/verified.svg) center/18px
     no-repeat;
   opacity: 0.5;
   z-index: 1;
@@ -7357,7 +7357,7 @@ code {
   display: none;
 }
 .connectedAccountOpenIcon_ab12c6 {
-  background: url(https://github.com/SinduMP/themedc/blob/main/Assets/popout.svg) center/18px
+  background: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/popout.svg) center/18px
     no-repeat;
   opacity: 0.3;
   transition: all 0.15s ease-in-out;
@@ -7662,7 +7662,7 @@ code {
   right: 0;
   left: 0;
   bottom: 0;
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/d5c25e76af04cea8997e4a060572feae.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/d5c25e76af04cea8997e4a060572feae.svg);
   background-repeat: no-repeat;
   background-position: 50%;
   filter: brightness(0) invert(1);
@@ -7740,169 +7740,169 @@ code {
   width: 24px;
 }
 .sidebar_c25c6d [aria-controls="my-account-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/person.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/person.svg);
 }
 .sidebar_c25c6d [aria-controls="profile-customization-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/user_profile.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/user_profile.svg);
 }
 .sidebar_c25c6d [aria-controls="privacy-&-safety-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/security.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/security.svg);
 }
 .sidebar_c25c6d [aria-controls="family-center-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/family.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/family.svg);
 }
 .sidebar_c25c6d [aria-controls="authorized-apps-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/apps.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/apps.svg);
 }
 .sidebar_c25c6d [aria-controls="sessions-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/devices.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/devices.svg);
 }
 .sidebar_c25c6d [aria-controls="connections-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/link.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/link.svg);
 }
 .sidebar_c25c6d [aria-controls="settings-clips-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/clips.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/clips.svg);
 }
 .sidebar_c25c6d [aria-controls="friend-requests-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/person_add.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/person_add.svg);
 }
 .sidebar_c25c6d [aria-controls="discord-nitro-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/nitro.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/nitro.svg);
 }
 .sidebar_c25c6d [aria-controls="nitro-server-boost-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/server_boost.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/server_boost.svg);
 }
 .sidebar_c25c6d [aria-controls="subscriptions-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/subscriptions.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/subscriptions.svg);
 }
 .sidebar_c25c6d [aria-controls="library-inventory-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/gift.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/gift.svg);
 }
 .sidebar_c25c6d [aria-controls="billing-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/payment.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/payment.svg);
 }
 .sidebar_c25c6d [aria-controls="appearance-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/camera.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/camera.svg);
 }
 .sidebar_c25c6d [aria-controls="accessibility-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/accessibility.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/accessibility.svg);
 }
 .sidebar_c25c6d [aria-controls="voice-&-video-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/mic.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/mic.svg);
 }
 .sidebar_c25c6d [aria-controls="text-&-images-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/chat.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/chat.svg);
 }
 .sidebar_c25c6d [aria-controls="notifications-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/notifications.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/notifications.svg);
 }
 .sidebar_c25c6d [aria-controls="keybinds-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/keyboard.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/keyboard.svg);
 }
 .sidebar_c25c6d [aria-controls="language-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/language.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/language.svg);
 }
 .sidebar_c25c6d [aria-controls="windows-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/windows.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/windows.svg);
 }
 .sidebar_c25c6d [aria-controls="linux-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/linux.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/linux.svg);
 }
 .sidebar_c25c6d [aria-controls="streamer-mode-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/videocam.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/videocam.svg);
 }
 .sidebar_c25c6d [aria-controls="advanced-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/bug.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/bug.svg);
 }
 .sidebar_c25c6d [aria-controls="activity-privacy-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/controller-off.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/controller-off.svg);
 }
 .sidebar_c25c6d [aria-controls="game-activity-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/games.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/games.svg);
 }
 .sidebar_c25c6d [aria-controls="overlay-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/aspect_ratio.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/aspect_ratio.svg);
 }
 .sidebar_c25c6d [aria-controls="changelog-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/history.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/history.svg);
 }
 .sidebar_c25c6d [aria-controls="hypesquad-online-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/hypesquad.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/hypesquad.svg);
 }
 .sidebar_c25c6d [aria-controls="overview-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/info.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/info.svg);
 }
 .sidebar_c25c6d [aria-controls="roles-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/flag.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/flag.svg);
 }
 .sidebar_c25c6d [aria-controls="emoji-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/emoji.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/emoji.svg);
 }
 .sidebar_c25c6d [aria-controls="stickers-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/sticker.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/sticker.svg);
 }
 .sidebar_c25c6d [aria-controls="soundboard-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/music.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/music.svg);
 }
 .sidebar_c25c6d [aria-controls="widget-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/widgets.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/widgets.svg);
 }
 .sidebar_c25c6d [aria-controls="guild_templates-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/website.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/website.svg);
 }
 .sidebar_c25c6d [aria-controls="vanity_url-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/link_plus.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/link_plus.svg);
 }
 .sidebar_c25c6d [aria-controls="integrations-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/puzzle.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/puzzle.svg);
 }
 .sidebar_c25c6d [aria-controls="moderation-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/security.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/security.svg);
 }
 .sidebar_c25c6d [aria-controls="safety-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/security.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/security.svg);
 }
 .sidebar_c25c6d [aria-controls="guild_automod-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/robot.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/robot.svg);
 }
 .sidebar_c25c6d [aria-controls="audit_log-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/list.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/list.svg);
 }
 .sidebar_c25c6d [aria-controls="bans-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/hammer.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/hammer.svg);
 }
 .sidebar_c25c6d [aria-controls="community-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/people.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/people.svg);
 }
 .sidebar_c25c6d [aria-controls="onboarding-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/rocket_launch.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/rocket_launch.svg);
 }
 .sidebar_c25c6d [aria-controls="analytics-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/insights.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/insights.svg);
 }
 .sidebar_c25c6d [aria-controls="partner-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/handshake.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/handshake.svg);
 }
 .sidebar_c25c6d [aria-controls="discovery-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/explore.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/explore.svg);
 }
 .sidebar_c25c6d [aria-controls="community_welcome-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/waving_hand.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/waving_hand.svg);
 }
 .sidebar_c25c6d [aria-controls="guild_premium-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/server_boost.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/server_boost.svg);
 }
 .sidebar_c25c6d [aria-controls="role_subscriptions-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/subscriptions.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/subscriptions.svg);
 }
 .sidebar_c25c6d [aria-controls="members-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/group.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/group.svg);
 }
 .sidebar_c25c6d [aria-controls="instant_invites-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/person_add.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/person_add.svg);
 }
 .sidebar_c25c6d [aria-controls="permissions-tab"].item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/rule.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/rule.svg);
 }
 .educationUpsell_b5926e {
   background-color: var(--popout-color);
@@ -8833,7 +8833,7 @@ code {
 }
 .theme-dark .micTest_e75a73 .container_a1107d {
   background: var(--main-color) !important;
-  mask-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/pill.svg);
+  mask-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/pill.svg);
 }
 .theme-dark .micTest_e75a73 .progress_a1107d {
   background-color: rgba(0, 0, 0, 0.7);
@@ -9233,22 +9233,22 @@ code {
   border: rgba(0, 0, 0, 0);
 }
 .sidebar_c25c6d .vc-settings.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/vencord.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/vencord.svg);
 }
 .sidebar_c25c6d .vc-plugins.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/puzzle.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/puzzle.svg);
 }
 .sidebar_c25c6d .vc-themes.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/palette.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/palette.svg);
 }
 .sidebar_c25c6d .vc-updater.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/sync.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/sync.svg);
 }
 .sidebar_c25c6d .vc-cloud.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/cloud_sync.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/cloud_sync.svg);
 }
 .sidebar_c25c6d .vc-backup-restore.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/file_archive.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/file_archive.svg);
 }
 .replugged-addon-card {
   background: var(--background-overlay);
@@ -9339,19 +9339,19 @@ code {
   background: var(--background-overlay);
 }
 .sidebar_c25c6d .bd-settings-tab.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/betterdiscord.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/betterdiscord.svg);
 }
 .sidebar_c25c6d .bd-updates-tab.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/sync.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/sync.svg);
 }
 .sidebar_c25c6d .bd-customcss-tab.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/code_braces.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/code_braces.svg);
 }
 .sidebar_c25c6d .bd-plugins-tab.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/puzzle.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/puzzle.svg);
 }
 .sidebar_c25c6d .bd-themes-tab.item_a0:before {
-  background-image: url(https://github.com/SinduMP/themedc/blob/main/Assets/palette.svg);
+  background-image: url(https://raw.githubusercontent.com/SinduMP/themedc/refs/heads/main/Assets/palette.svg);
 }
 .bd-modal-root {
   background-color: var(--background-overlay);
